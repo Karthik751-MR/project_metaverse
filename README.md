@@ -1,39 +1,51 @@
-﻿<div align="center">
+# Metaverse 13
 
-# ðŸŒŒ Metaverse 13 (Next-Gen Web3 Landing Experience)
+> An immersive Metaverse landing experience built with Next.js and Framer Motion.
 
-A modern, immersive Metaverse landing page built with Next.js 13, Framer Motion, and Tailwind CSS. Features dynamic scroll-triggered transitions and futuristic dark glassmorphism.
+Metaverse 13 is a visually focused web experience built around futuristic interfaces, animated sections, interactive world cards, and responsive layouts. It demonstrates modern React/Next.js UI composition and motion-driven interaction design.
 
-[![Next.js](https://img.shields.io/badge/Next.js-13-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-10-EA4C89?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+## Features
 
-</div>
+- Scroll-triggered Framer Motion animations
+- Interactive world/realm cards
+- Dark glassmorphism visual system
+- Responsive layouts across screen sizes
+- Reusable React components
+- Modern Next.js application structure
 
----
+## Tech Stack
 
-## âœ¨ Highlights
+- Next.js 13
+- React 18
+- Tailwind CSS
+- Framer Motion
+- TypeScript/JavaScript as used by the application
 
-- ðŸŽ­ **Smooth Scroll Animations**: Powered by Framer Motion stagger effects, viewport triggers, and gradient shifts.
-- ðŸª **Interactive World Cards**: Expandable card components highlighting distinct Metaverse realms.
-- ðŸ“± **Ultra Responsive Design**: Pixel-perfect scaling across mobile, tablet, and ultra-wide displays.
+## Project Structure
 
----
+```text
+project_metaverse/
+├── app/ or pages/       # Next.js routes
+├── components/          # Reusable UI sections
+├── public/              # Images and static assets
+├── styles/              # Global styles where present
+├── package.json
+└── README.md
+```
 
-## ðŸš€ Quick Start
+The existing source layout should remain the source of truth for route and component paths.
 
-`ash
+## Getting Started
+
+```bash
 git clone https://github.com/Karthik751-MR/project_metaverse.git
-cd project_metaverse-main
+cd project_metaverse
 npm install
 npm run dev
-`
+```
 
-Visit http://localhost:3000 to explore the Metaverse.
+Open `http://localhost:3000`.
 
----
+## Author
 
-## ðŸ‘¤ Author
-
-- **Karthik** - [@Karthik751-MR](https://github.com/Karthik751-MR)
+**Karthik Raj M R** — [@Karthik751-MR](https://github.com/Karthik751-MR)
